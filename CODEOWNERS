@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @BIT-29
+/src/backend/database.py      @BIT-29
+/src/backend/routers/auth.py  @BIT-29
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @BIT-29
